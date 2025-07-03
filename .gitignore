@@ -3,4 +3,8 @@ venv
 tracemorph.egg-info
 build
 dist
-result.json
+results.json
+tracemorph/__pycache__
+tracemorph/core/__pycache__
+tracemorph/output/__pycache__
+tracemorph/store/__pycache__
