@@ -71,3 +71,6 @@ test(10)
 print(TraceBuilder.build_narrative_for_last()[0])
 
 ```
+
+# tracemorph
+library Python untuk melacak eksekusi fungsi, membangun visualisasi call-chain, serta menghasilkan narasi error berbasis AI (via LLM API).
