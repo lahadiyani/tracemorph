@@ -1,0 +1,19 @@
+[
+    {
+        "id": 0,
+        "name": "uncaught_exception",
+        "file": "C:\\Users\\ASUS\\Documents\\code\\tracemorph\\test.py",
+        "line": 1,
+        "args": "[]",
+        "kwargs": "{}",
+        "result": "None",
+        "duration": 0,
+        "parent": null,
+        "success": false,
+        "exception_message": "cannot import name 'TraceBuilder' from 'tracemorph' (C:\\Users\\ASUS\\Documents\\code\\tracemorph\\tracemorph\\__init__.py)",
+        "category": "uncaught",
+        "level": "critical",
+        "status_code": 500,
+        "timestamp": "2025-07-03T06:48:58.383228"
+    }
+]
