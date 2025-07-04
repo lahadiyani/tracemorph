@@ -1,10 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtualenv
+venv/
+.env/
+
+#test
 test.py
-venv
-tracemorph.egg-info
-build
-dist
-results.json
-tracemorph/__pycache__
-tracemorph/core/__pycache__
-tracemorph/output/__pycache__
-tracemorph/store/__pycache__
