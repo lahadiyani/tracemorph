@@ -1,5 +1,7 @@
 # TraceMorph
 
+![image](tracemorph/static/icon.jpg)
+
 **TraceMorph** adalah library Python untuk melacak eksekusi fungsi, membangun visualisasi call-chain, serta menghasilkan narasi error berbasis AI (via LLM API).
 
 ### 🚀 Fitur
