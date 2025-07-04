@@ -4,7 +4,7 @@ setup(
     name="tracemorph",
     version="0.1.4",
     author="Hadi",
-    author_email="lahadiyani@example.com",
+    author_email="lahadiyani@gmail.com",
     description="Function execution tracing, visualization, and narrative builder for Python apps.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",

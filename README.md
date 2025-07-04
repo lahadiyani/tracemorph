@@ -8,9 +8,8 @@
 
 - Dekorator tracing fungsi otomatis
 - Pelacakan exception global
-- Visualisasi call-stack dan dependensi fungsi
 - Ekspor hasil trace ke JSON
-- Narasi human-readable berbasis LLM prompt engineering
+- Narasi human-readable berbasis LLM
 - Bisa diintegrasikan ke middleware, testing, atau backend
 
 ### Cara install
